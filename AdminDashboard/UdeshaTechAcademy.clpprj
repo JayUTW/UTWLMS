@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\UdeshaTechAcademy\UdeshaTechAcademy.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/UdeshaTechAcademy]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/UdeshaTechAcademy]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";C:\xampp\htdocs\UdeshaTechAcademy\NewFile0.php;C:\xampp\htdocs\UdeshaTechAcademy\NewFile1.php;"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\showcategory.php"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\utwcrud.js"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\ShrutiDoubt.php"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\index.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.10">
+  <errfile name="C:\xampp\htdocs\UdeshaTechAcademy\register.php">
+   <error val="148;53;156;53;2002;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\UdeshaTechAcademy\edittopic.php">
+   <error val="88;384;107;384;2002;1;"/>
+   <error val="9;34;43;34;2002;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\UdeshaTechAcademy\editprogram.php">
+   <error val="112;391;131;391;2002;1;"/>
+   <error val="15;35;49;35;2002;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\UdeshaTechAcademy\addtopic.php">
+   <error val="15;373;23;373;254;2;"/>
+   <error val="22;379;30;379;254;2;"/>
+   <error val="88;400;107;400;2002;1;"/>
+   <error val="9;34;43;34;2002;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\UdeshaTechAcademy\addprogrames.php">
+   <error val="112;404;131;404;2002;1;"/>
+   <error val="15;35;49;35;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\js\highlight.js">
+   <todo name="TODO: These spaces are not required by the Ada syntax" pos="9;1779"/>
+   <todo name="TODO should get same treatment as strong and emphasis)" pos="29;2920"/>
+   <todo name="TODO: other constructors (built-in, infix)." pos="32;6086"/>
+   <todo name="TODO support filter tags like :javascript, support inline HTML" pos="31;8549"/>
+   <todo name="TODO: other constructors (build-in, infix)." pos="32;8757"/>
+   <todo name="TODO: characters." pos="7;8840"/>
+   <todo name="TODO: neatly escape normal code in string literal" pos="3;13113"/>
+   <todo name="ToDo: var PARAMETERS_PRINT = 'append as-value brief detail count-only file follow follow-only from" pos="3;18841"/>
+   <todo name="ToDo: var OPERATORS = '&amp;&amp; and ! not || or in ~ ^ &amp; &lt;&lt; >> + - * /';" pos="3;18842"/>
+   <todo name="ToDo: var TYPES = 'num number bool boolean str string ip ip6-prefix id time array';" pos="3;18843"/>
+   <todo name="ToDo: The following tokens serve as delimiters in the grammar: ()  []  {}  :   ;   $   /" pos="3;18844"/>
+   <todo name="TODO: remove |$ hack when we have proper look-ahead support" pos="7;21402"/>
+   <todo name="TODO: find regex for op: without breaking build)" pos="14;22626"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\js\sample.js">
+   <todo name="TODO we can consider displaying some info box that" pos="4;37"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.bundle.js">
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;5096"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;6381"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.js">
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;2483"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;3768"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.bundle.js">
+   <todo name="TODO(v3): remove 'global' from namespace.  all default are global and" pos="1;2995"/>
+   <todo name="TODO Make possible to select another platform at build time." pos="2;7882"/>
+   <todo name="@TODO Make possible to select another platform at build time." pos="1;7882"/>
+   <todo name="TODO(SB): I think we should be able to remove this custom case (options.scale)" pos="4;9546"/>
+   <todo name="TODO(v3): remove minSize as a public property and return value from all layout boxes. It is unused" pos="3;11592"/>
+   <todo name="TODO(v3): change this to positiveOrDefault" pos="1;13147"/>
+   <todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="9;15066"/>
+   <todo name="TODO: add sorting" pos="9;15709"/>
+   <todo name="TODO: Another silent failure?" pos="17;15749"/>
+   <todo name="TODO: Find a better way to register and load all the locales in Node" pos="9;16554"/>
+   <todo name="TODO: We need to take the current isoWeekYear, but that depends on" pos="13;16834"/>
+   <todo name="TODO: Replace the vanilla JS Date object with an indepentent day-of-week check." pos="13;17009"/>
+   <todo name="TODO: Move this to another part of the creation flow to prevent circular deps" pos="9;17113"/>
+   <todo name="TODO: Use [].sort instead?" pos="5;17408"/>
+   <todo name="TODO: remove 'name' arg after deprecation is removed" pos="5;17839"/>
+   <todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="9;18467"/>
+   <todo name="TODO: Use this.as('ms')?" pos="5;18999"/>
+   <todo name="todo if (fill[0] === '#')" pos="2;19420"/>
+   <todo name="@todo if (fill[0] === '#')" pos="1;19420"/>
+   <todo name="todo dispatch these helpers into appropriated helpers/helpers.* file and write unit tests!" pos="2;20629"/>
+   <todo name="@todo dispatch these helpers into appropriated helpers/helpers.* file and write unit tests!" pos="1;20629"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.js">
+   <todo name="TODO(v3): remove 'global' from namespace.  all default are global and" pos="1;2991"/>
+   <todo name="TODO Make possible to select another platform at build time." pos="2;7878"/>
+   <todo name="@TODO Make possible to select another platform at build time." pos="1;7878"/>
+   <todo name="TODO(SB): I think we should be able to remove this custom case (options.scale)" pos="4;9542"/>
+   <todo name="TODO(v3): remove minSize as a public property and return value from all layout boxes. It is unused" pos="3;11588"/>
+   <todo name="TODO(v3): change this to positiveOrDefault" pos="1;13143"/>
+   <todo name="todo if (fill[0] === '#')" pos="2;14816"/>
+   <todo name="@todo if (fill[0] === '#')" pos="1;14816"/>
+   <todo name="todo dispatch these helpers into appropriated helpers/helpers.* file and write unit tests!" pos="2;16025"/>
+   <todo name="@todo dispatch these helpers into appropriated helpers/helpers.* file and write unit tests!" pos="1;16025"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\jquery.dataTables.js">
+   <todo name="todo depreciated" pos="36;3639"/>
+   <todo name="@todo depreciated" pos="35;3639"/>
+   <todo name="todo Move options into their own plugins?" pos="5;3678"/>
+   <todo name="@todo Move options into their own plugins?" pos="4;3678"/>
+   <todo name="todo As per sort - can this be moved into an event handler?" pos="4;4323"/>
+   <todo name="@todo As per sort - can this be moved into an event handler?" pos="3;4323"/>
+   <todo name="todo Can this be moved into a 'data-ready' handler which is called when" pos="4;5979"/>
+   <todo name="@todo Can this be moved into a 'data-ready' handler which is called when" pos="3;5979"/>
+   <todo name="todo - for 1.11 this needs to be done by" pos="27;6412"/>
+   <todo name="todo - Is there need for an augment function?" pos="3;7265"/>
+   <todo name="@todo - Is there need for an augment function?" pos="2;7265"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\all.js">
+   <todo name="TODO: do we need to handle font-weight for kit SVG pseudo-elements?" pos="104;2185"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\fontawesome.js">
+   <todo name="TODO: do we need to handle font-weight for kit SVG pseudo-elements?" pos="104;201"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.js">
+   <todo name="TODO: identify versions" pos="8;793"/>
+   <todo name="TODO: identify versions" pos="7;807"/>
+   <todo name="TODO: Drop _data, _removeData)" pos="48;4397"/>
+   <todo name="TODO: Now that all calls to _data and _removeData have been replaced" pos="2;4465"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.slim.js">
+   <todo name="TODO: identify versions" pos="8;793"/>
+   <todo name="TODO: identify versions" pos="7;807"/>
+   <todo name="TODO: Drop _data, _removeData)" pos="48;4397"/>
+   <todo name="TODO: Now that all calls to _data and _removeData have been replaced" pos="2;4465"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\utilities-other.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\utilities-color.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\utilities-border.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\utilities-animation.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\charts.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\cards.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\buttons.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Pages\404.html" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Sidebar.php" crc="1623248286927"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\mainarea.php" crc="1623248038654"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Header.php" crc="1623247989165"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\include\Footer.php" crc="1623248014798"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery-easing\jquery.easing.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery-easing\jquery.easing.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery-easing\jquery.easing.compatibility.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.slim.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.slim.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\jquery\jquery.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\v4-shims.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\solid.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\regular.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\fontawesome.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\brands.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_variables.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_stacked.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_shims.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_screen-reader.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_rotated-flipped.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_mixins.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_list.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_larger.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_icons.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_fixed-width.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_core.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_bordered-pulled.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\scss\_animated.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\metadata\sponsors.yml" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\metadata\shims.yml" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\metadata\icons.yml" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\metadata\categories.yml" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\v4-shims.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\solid.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\regular.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\fontawesome.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\brands.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_variables.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_stacked.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_shims.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_screen-reader.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_rotated-flipped.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_mixins.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_list.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_larger.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_icons.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_fixed-width.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_core.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_bordered-pulled.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\less\_animated.less" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\v4-shims.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\v4-shims.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\solid.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\solid.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\regular.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\regular.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\fontawesome.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\fontawesome.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\conflict-detection.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\conflict-detection.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\brands.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\brands.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\all.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\js\all.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\v4-shims.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\v4-shims.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\svg-with-js.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\svg-with-js.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\solid.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\solid.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\regular.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\regular.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\fontawesome.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\fontawesome.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\brands.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\brands.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\all.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\css\all.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\package.json" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\LICENSE.txt" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\fontawesome-free\attribution.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\jquery.dataTables.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\jquery.dataTables.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\dataTables.bootstrap4.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\dataTables.bootstrap4.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\dataTables.bootstrap4.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\datatables\dataTables.bootstrap4.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.bundle.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\chart.js\Chart.bundle.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\vendor\_rfs.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_visibility.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_text.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_stretched-link.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_spacing.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_sizing.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_shadows.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_screenreaders.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_position.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_overflow.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_interactions.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_float.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_flex.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_embed.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_display.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_clearfix.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_borders.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_background.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\utilities\_align.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_visibility.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_transition.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_text-truncate.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_text-hide.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_text-emphasis.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_table-row.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_size.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_screen-reader.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_resize.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_reset-text.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_pagination.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_nav-divider.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_lists.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_list-group.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_image.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_hover.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_grid.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_grid-framework.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_gradients.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_forms.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_float.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_deprecate.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_clearfix.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_caret.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_buttons.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_breakpoints.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_box-shadow.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_border-radius.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_badge.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_background-variant.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\mixins\_alert.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\bootstrap.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\bootstrap-reboot.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\bootstrap-grid.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_variables.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_utilities.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_type.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_transitions.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_tooltip.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_toasts.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_tables.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_spinners.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_root.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_reboot.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_progress.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_print.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_popover.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_pagination.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_navbar.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_nav.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_modal.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_mixins.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_media.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_list-group.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_jumbotron.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_input-group.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_images.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_grid.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_functions.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_forms.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_dropdown.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_custom-forms.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_code.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_close.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_carousel.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_card.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_buttons.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_button-group.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_breadcrumb.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_badge.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\scss\_alert.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.bundle.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\vendor\bootstrap\js\bootstrap.bundle.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_text.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_rotate.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_progress.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_display.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_border.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_background.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\utilities\_animation.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\navs\_topbar.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\navs\_sidebar.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\navs\_global.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\sb-admin-2.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_variables.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_utilities.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_navs.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_mixins.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_login.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_global.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_footer.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_error.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_dropdowns.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_charts.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_cards.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\scss\_buttons.scss" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\demo\datatables-demo.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\demo\chart-pie-demo.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\demo\chart-bar-demo.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\demo\chart-area-demo.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\utwcrud.js" crc="1623246268841"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\sb-admin-2.min.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Js\sb-admin-2.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\src\scss\wysiwyg.scss" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\src\js\wysiwyg.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\docs\index.html" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\js\wysiwyg.min.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\js\wysiwyg.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\js\highlight.min.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\js\highlight.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\css\wysiwyg.min.css" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\css\wysiwyg.css" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\css\highlight.min.css" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\dist\css\highlight.css" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\package.json" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\gulpfile.js" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\composer.json" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\wysiwyg-editor-bootstrap\bower.json" crc="1615427054000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\Responsive-WYSIWYG-Text-Editor-with-jQuery-Bootstrap-LineControl-Editor\license.txt" crc="1522143754000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\Responsive-WYSIWYG-Text-Editor-with-jQuery-Bootstrap-LineControl-Editor\editor.js" crc="1522143754000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\Responsive-WYSIWYG-Text-Editor-with-jQuery-Bootstrap-LineControl-Editor\editor.css" crc="1522143754000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Editor\Responsive-WYSIWYG-Text-Editor-with-jQuery-Bootstrap-LineControl-Editor\demo.html" crc="1522143754000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\css\sb-admin-2.min.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\css\sb-admin-2.css" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor_iequirks.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor_ie8.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor_ie7.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor_ie.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor_gecko.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\editor.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\dialog_iequirks.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\dialog_ie8.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\dialog_ie7.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\dialog_ie.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\skins\moono\dialog.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\show-hint.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\show-hint.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\neo.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\javascript.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\codemirror.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\lib\codemirror\codemirror.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\js\toolbartextmodifier.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\js\toolbarmodifier.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\js\fulltoolbareditor.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\js\abstracttoolbarmodifier.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\font\LICENSE.txt" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\font\config.json" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\css\fontello.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\toolbarconfigurator\index.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\wysiwygarea\fullpage.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\toolbar\toolbar.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\magicline\magicline.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\htmlwriter\assets\outputforflash\swfobject.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\htmlwriter\outputhtml.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\htmlwriter\outputforflash.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\enterkey\enterkey.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\dialog\assets\my_dialog.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\dialog\dialog.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\assets\uilanguages\languages.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\assets\outputxhtml\outputxhtml.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\assets\posteddata.php" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\xhtmlstyle.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\uilanguages.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\uicolor.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\tabindex.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\sample_posteddata.php" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\sample.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\sample.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\replacebycode.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\replacebyclass.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\readonly.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\jquery.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\inlinetextarea.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\inlinebycode.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\inlineall.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\index.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\divreplace.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\datafiltering.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\appendto.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\api.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\old\ajax.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\js\sf.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\js\sample.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\css\samples.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\samples\index.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\wsc\dialogs\wsc_ie.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\wsc\dialogs\wsc.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\wsc\dialogs\wsc.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\wsc\dialogs\tmpFrameset.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\wsc\dialogs\ciframe.html" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\tabletools\dialogs\tableCell.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\table\dialogs\table.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\zh.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\zh-cn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\vi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\uk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ug.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\tt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\tr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\th.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\sv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\sq.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\sl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\sk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\si.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ru.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\pt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\pt-br.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\pl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\no.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\nl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\nb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\lv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\lt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ku.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ko.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\km.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ja.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\it.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\id.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\hu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\hr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\he.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\gl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\fr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\fr-ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\fi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\fa.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\eu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\et.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\es.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\eo.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\en.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\en-gb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\el.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\de.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\de-ch.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\da.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\cy.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\cs.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\bg.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\ar.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\af.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\lang\_translationstatus.txt" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\specialchar\dialogs\specialchar.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\scayt\dialogs\toolbar.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\scayt\dialogs\options.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\pastefromword\filter\default.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\link\dialogs\link.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\link\dialogs\anchor.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\image\dialogs\image.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\dialog\dialogDefinition.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\clipboard\dialogs\paste.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\about\dialogs\about.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\zh.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\zh-cn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\vi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\uk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ug.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\tt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\tr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\th.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sr-latn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sq.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\sk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\si.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ru.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ro.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\pt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\pt-br.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\pl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\no.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\nl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\nb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\mn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\mk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\lv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\lt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ku.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ko.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\km.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ja.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\it.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\id.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\hu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\hr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\hi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\he.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\gu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\gl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\fr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\fr-ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\fo.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\fi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\fa.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\eu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\et.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\es.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\eo.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\en.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\en-gb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\el.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\de.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\de-ch.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\da.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\cy.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\cs.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\bg.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\ar.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\af.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\lang\_translationstatus.txt" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\plugins\a11yhelp\dialogs\a11yhelp.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\zh.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\zh-cn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\vi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\uk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ug.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\tt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\tr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\th.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sr-latn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sq.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\sk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\si.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ru.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ro.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\pt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\pt-br.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\pl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\no.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\nl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\nb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ms.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\mn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\mk.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\lv.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\lt.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ku.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ko.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\km.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ka.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ja.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\it.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\is.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\id.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\hu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\hr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\hi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\he.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\gu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\gl.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\fr.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\fr-ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\fo.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\fi.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\fa.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\eu.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\et.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\es.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\eo.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\en.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\en-gb.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\en-ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\en-au.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\el.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\de.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\de-ch.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\da.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\cy.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\cs.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ca.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\bs.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\bn.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\bg.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\ar.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\lang\af.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\adapters\jquery.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\styles.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\contents.css" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\config.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\ckeditor.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\ckeditor\build-config.js" crc="1592748178000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Program_CRUD.php" crc="1622300470668"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\package.json" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\package-lock.json" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\gulpfile.js" crc="1619614264000"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\Category_CRUD.php" crc="1622300470432"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\addprogrames.php" crc="1622300469948"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Assets\addcategory.php" crc="1622300469461"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Topic_CRUD.php" crc="1623162581237"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\tables.php" crc="1621949152493"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Studentlist.php" crc="1623248458245"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\showtopic.php" crc="1623162132814"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\showprogrames.php" crc="1623159184164"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\showcategory.php" crc="1623246768966"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\register.php" crc="1621951238179"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Program_CRUD.php" crc="1622894185086"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\logout.php" crc="1622122634608"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\loginRegister.php" crc="1622123051441"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\index.php" crc="1623250903597"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\forgot-password.php" crc="1621949093793"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Enrollment.php" crc="1623248477382"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\edittopic.php" crc="1623162343703"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\editprogram.php" crc="1622893724135"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\editcategory.php" crc="1622815609016"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Dashboard.php" crc="1623248098727"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Conn.php" crc="1621951672402"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\Category_CRUD.php" crc="1622893269320"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\blank.php" crc="1621949087477"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\addtopic.php" crc="1623161654493"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\addprogrames.php" crc="1623159635515"/>
+  <file name="C:\xampp\htdocs\UdeshaTechAcademy\addcategory.php" crc="1623245087472"/>
+ </filescache>
+</project>
